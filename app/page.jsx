@@ -1,6 +1,6 @@
 import React from "react";
 
-import Feed from '@components/Feed'
+import Feed from "../components/feed"
 
 const Home = () => {
     return(
